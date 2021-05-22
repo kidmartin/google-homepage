@@ -1,0 +1,122 @@
+.center {
+  object-fit: contain;
+  text-align:center;
+  width:60%;
+  height:auto;
+  padding-top:130px;
+  margin:0 auto;
+  }
+.imgscale {
+width: 272px;
+height: 92;
+}
+
+.imground {
+  border-radius: 50%;
+}
+
+.button{
+  height: 10px;
+  width: 10px;
+}
+
+header {
+    word-spacing: 15px;
+   float: right;
+padding-left: 30px;
+font-size: 15px;
+margin-top: 24px;
+margin-left: 18px;
+margin-right: 10px;
+}
+
+.buttonHolder { 
+  overflow: visible;
+background-color: #f4f4f4;
+color: #646368;
+border: none;
+text-decoration: none;
+padding: 8px 16px;
+border-radius: 4px;
+font-size: 14px;
+display: inline-block;
+width: auto;
+line-height: 27px;
+}
+
+.centerbutton {
+text-align: center;
+}
+  .search {
+    margin-top: 10px;
+    text-align: center;
+    height:45px;
+    border:10px;
+    width:600px;
+    font-size:16px;
+    border: 1px solid rgb(197, 196, 196);
+    border-radius: 25px;
+    background-image: url(./images/glass.jpg);
+    background-repeat: no-repeat;
+background-size: contain;
+
+    
+  }
+
+  form {
+      display: flex;
+    justify-content: center;
+  }
+
+  .ultop {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0px;
+    right: 0px;
+
+  }
+
+  .ulbottom {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 15px;
+    left: 15px;
+    color:rgb(145, 142, 142); 
+    letter-spacing: normal;
+    word-spacing: 15px;
+
+  }
+
+  .ulbottom1 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    color:rgb(145, 142, 142); 
+    word-spacing: 15px;
+  }
+
+  footer {
+    background-color: #f2f2f2;
+    position: absolute;
+    bottom: 0;
+    width: 110%;
+    height: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-width: .5pt;
+    border-style: solid;
+    border-color: rgb(236, 235, 235);
+    margin: 0;
+  }
+
+  li {
+    display: inline;
+  }
+  
