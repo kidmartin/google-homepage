@@ -6,3 +6,5 @@ to recreate the basic google homepage.
 
 The point of this project will be to understand the basics of HTML and CSS, and their use
 within the development of apps. 
+
+Live app: https://kidmartin.github.io/google-homepage/
